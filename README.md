@@ -1,2 +1,2 @@
 # HOC3
-Calculadora
+Analizador Lexico,Sintactico y Calculadora
